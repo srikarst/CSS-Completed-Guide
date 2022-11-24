@@ -1,0 +1,22 @@
+body {
+  font-family: sans-serif;
+}
+li:not(:first-of-type) {
+  color: white;
+  background-color: black;
+}
+ol li {
+  color: white;
+  background-color: black;
+}
+h1 {
+  color: aquamarine;
+  font-family: sans-serif;
+}
+.second-li-code {
+  color: green;
+}
+code {
+  color: red;
+  font-family: monospace;
+}
